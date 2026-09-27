@@ -30,4 +30,4 @@ Buku pegangan kerja Pokja 2 Indonesia Digital Twin Community (IDTC).
 - ✅ Ambil pekerjaan → issue berlabel `butuh-bantuan` / `good-first-issue`
 - 📝 Usulkan pilot → isi [formulir usulan](formulir/)
 
-Lisensi dokumen: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.id).
+Lisensi dokumen ini: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.id).
